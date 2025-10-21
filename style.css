@@ -19,6 +19,7 @@ body {
 }
 
 .header {
+  background-color: #fff;
   border-top: 3px solid rgba(255, 117, 0, 1);
   padding: 16px 0;
 }
